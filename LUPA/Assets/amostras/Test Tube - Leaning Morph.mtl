@@ -1,0 +1,20 @@
+# Created with Anim8or 0.97d beta
+# Object "Test Tube Base":
+
+newmtl Glass
+Ka 0.875 0.925 0.984
+Kd 0.875 0.925 0.984
+Ks 1 1 1
+d 0.2
+Ns 752.6
+
+newmtl Liquid
+Ka 0.875 0.875 0.875
+Kd 0.875 0.875 0.875
+Ks 1 1 1
+d 0.9
+Ns 752.6
+map_Ka GreenLiquid.jpg
+map_Kd GreenLiquid.jpg
+map_Ks GreenLiquid.jpg
+

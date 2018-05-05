@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 3d9d063c20d59124eae8088e43ae3055
+timeCreated: 1510268510
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: cube24_se0_default11
+    100002: cube24_se0_default12
+    100004: cube24_se1_default11
+    100006: cube24_se1_default12
+    100008: cube24_se2_default11
+    100010: cube24_se2_default12
+    100012: cube24_se3_default11
+    100014: cube24_se3_default12
+    100016: cube24_se4_default11
+    100018: cube24_se4_default14
+    100020: cube24_se5_default11
+    100022: cube24_se5_default14
+    100024: cube24_se6_default11
+    100026: cube24_se6_default14
+    100028: cube24_se7_default11
+    100030: cube24_se7_default9
+    100032: cube24_se8_default11
+    100034: cube24_se9_default11
+    100036: cube24_se_default10
+    100038: //RootNode
+    400000: cube24_se0_default11
+    400002: cube24_se0_default12
+    400004: cube24_se1_default11
+    400006: cube24_se1_default12
+    400008: cube24_se2_default11
+    400010: cube24_se2_default12
+    400012: cube24_se3_default11
+    400014: cube24_se3_default12
+    400016: cube24_se4_default11
+    400018: cube24_se4_default14
+    400020: cube24_se5_default11
+    400022: cube24_se5_default14
+    400024: cube24_se6_default11
+    400026: cube24_se6_default14
+    400028: cube24_se7_default11
+    400030: cube24_se7_default9
+    400032: cube24_se8_default11
+    400034: cube24_se9_default11
+    400036: cube24_se_default10
+    400038: //RootNode
+    2300000: cube24_se0_default11
+    2300002: cube24_se0_default12
+    2300004: cube24_se1_default11
+    2300006: cube24_se1_default12
+    2300008: cube24_se2_default11
+    2300010: cube24_se2_default12
+    2300012: cube24_se3_default11
+    2300014: cube24_se3_default12
+    2300016: cube24_se4_default11
+    2300018: cube24_se4_default14
+    2300020: cube24_se5_default11
+    2300022: cube24_se5_default14
+    2300024: cube24_se6_default11
+    2300026: cube24_se6_default14
+    2300028: cube24_se7_default11
+    2300030: cube24_se7_default9
+    2300032: cube24_se8_default11
+    2300034: cube24_se9_default11
+    2300036: cube24_se_default10
+    3300000: cube24_se0_default11
+    3300002: cube24_se0_default12
+    3300004: cube24_se1_default11
+    3300006: cube24_se1_default12
+    3300008: cube24_se2_default11
+    3300010: cube24_se2_default12
+    3300012: cube24_se3_default11
+    3300014: cube24_se3_default12
+    3300016: cube24_se4_default11
+    3300018: cube24_se4_default14
+    3300020: cube24_se5_default11
+    3300022: cube24_se5_default14
+    3300024: cube24_se6_default11
+    3300026: cube24_se6_default14
+    3300028: cube24_se7_default11
+    3300030: cube24_se7_default9
+    3300032: cube24_se8_default11
+    3300034: cube24_se9_default11
+    3300036: cube24_se_default10
+    4300000: cube24_se0_default11
+    4300002: cube24_se0_default12
+    4300004: cube24_se1_default11
+    4300006: cube24_se1_default12
+    4300008: cube24_se2_default11
+    4300010: cube24_se2_default12
+    4300012: cube24_se3_default11
+    4300014: cube24_se3_default12
+    4300016: cube24_se4_default11
+    4300018: cube24_se4_default14
+    4300020: cube24_se5_default11
+    4300022: cube24_se5_default14
+    4300024: cube24_se6_default11
+    4300026: cube24_se6_default14
+    4300028: cube24_se7_default11
+    4300030: cube24_se7_default9
+    4300032: cube24_se8_default11
+    4300034: cube24_se9_default11
+    4300036: cube24_se_default10
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube24_se0_default11Mat
+    second: {fileID: 2100000, guid: 23d1ecad42225384fadffbda5502ad61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube24_se0_default12Mat
+    second: {fileID: 2100000, guid: 613d49d03f7ba704290e14197c617999, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube24_se1_default11Mat
+    second: {fileID: 2100000, guid: c88e564f4dc9ef248b3e064dd06286f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube24_se1_default12Mat
+    second: {fileID: 2100000, guid: 5bb88aca14159004fa5a070c14fa77cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube24_se2_default11Mat
+    second: {fileID: 2100000, guid: c8bafddc6708ad240a5e79e04879510e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube24_se2_default12Mat
+    second: {fileID: 2100000, guid: 3eb0e71d6e55611479dcdd2dd36268ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube24_se3_default11Mat
+    second: {fileID: 2100000, guid: 472ba73cfe3b91943bdd5bf72650f156, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube24_se3_default12Mat
+    second: {fileID: 2100000, guid: 21b5eb641a725ab4397348233c3c1688, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube24_se4_default11Mat
+    second: {fileID: 2100000, guid: b8285940eb94aae4e8b98f0debde7411, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube24_se4_default14Mat
+    second: {fileID: 2100000, guid: 2c341ec99c2fc2c4d9c5c2c9a210d7c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube24_se5_default11Mat
+    second: {fileID: 2100000, guid: 28a22f32beb6dd441b701a1b6da3a3a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube24_se5_default14Mat
+    second: {fileID: 2100000, guid: c46b9c449c8b19e4ab5baf319b07b898, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube24_se6_default11Mat
+    second: {fileID: 2100000, guid: fb3b55a57b1fe084faeb11dfa57aa43e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube24_se6_default14Mat
+    second: {fileID: 2100000, guid: b1b6ab12231956544aeea40eac7604e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube24_se7_default11Mat
+    second: {fileID: 2100000, guid: 2df01b8e4f2540d4580968b64a7d2921, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube24_se7_default9Mat
+    second: {fileID: 2100000, guid: f2e26e7316510aa48930462bc5a7c7ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube24_se8_default11Mat
+    second: {fileID: 2100000, guid: 6ef0d9f210d6aa44eb26fc375b84cd87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube24_se9_default11Mat
+    second: {fileID: 2100000, guid: 966fd32c47ef7e042b57e59e3ed77464, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube24_se_default10Mat
+    second: {fileID: 2100000, guid: a8523d670528ac4448b5e52a97911ec7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
